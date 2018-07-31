@@ -72,7 +72,7 @@
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
                 "grid_x_int": 3,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -84,7 +84,7 @@
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
                 "grid_x_int": 7,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": 0,
                 "input": {},
                 "output": {},
@@ -96,7 +96,7 @@
             "11111111-1111-1111-1111-000000000002": {
                 "error": {},
                 "grid_x_int": 6,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -108,7 +108,7 @@
             "11111111-1111-1111-1111-000000000003": {
                 "error": {},
                 "grid_x_int": 4,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": 0,
                 "input": {},
                 "output": {},
@@ -120,7 +120,7 @@
             "11111111-1111-1111-1111-000000000004": {
                 "error": {},
                 "grid_x_int": 5,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": 4,
                 "input": {},
                 "output": {},
@@ -186,7 +186,7 @@
                     },
                     "filePath": {
                         "expression": false,
-                        "value": "../shared/coTestData4.csv"
+                        "value": "../shared/coTestData3.csv"
                     },
                     "preventURLEncoding": {
                         "value": false
@@ -252,7 +252,7 @@
                     },
                     "filename": {
                         "expression": false,
-                        "value": "../shared/myData4.xlsx"
+                        "value": "../shared/myData3.xlsx"
                     },
                     "flushIntervalKb": {
                         "value": -1
@@ -381,61 +381,10 @@
                         "value": "Auto BOM detect"
                     },
                     "columnList": {
-                        "value": [
-                            {
-                                "columns": {
-                                    "value": "colmA"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmB"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmC"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmD"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmE"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmF"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmG"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmH"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmI"
-                                }
-                            },
-                            {
-                                "columns": {
-                                    "value": "colmJ"
-                                }
-                            }
-                        ]
+                        "value": []
                     },
                     "containsHeader": {
-                        "value": false
+                        "value": true
                     },
                     "delimiter": {
                         "expression": false,
